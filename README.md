@@ -1,4 +1,5 @@
 # Courier Delivery Service - Food Order & Delivery Optimization
+SQL + Data Modeling + Delivery Optimization | MySQL + Tableau
 
 ## 📌 Overview
 This project designs and implements a **Courier Delivery Service database** to analyze product trends, courier efficiency, and delivery performance.
